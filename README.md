@@ -1,4 +1,4 @@
-# PHP Simple Example - PHP Upload Multiple Image using Ajax
+# PHP Simple Project - MiChawla 
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.codehafeez.com/)
@@ -11,12 +11,15 @@
 ## Run Project on Localhost
 
 ```bash
-http://localhost/Ajax-multiple-image-upload
+http://localhost/php-project_01-michawla
 ```
     
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://raw.githubusercontent.com/codehafeez/php-project_01-michawla/main/Screenshots/Login.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_01-michawla/main/Screenshots/Dashboard%20-%20Blue.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_01-michawla/main/Screenshots/Dashboard%20-%20Black.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_01-michawla/main/Screenshots/Daily%20Recovery.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_01-michawla/main/Screenshots/Profile.png)
 
 
 ## 🔗 www.codehafeez.com
